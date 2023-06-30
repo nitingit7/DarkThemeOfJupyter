@@ -1,4 +1,4 @@
-# DarkThemeOfJupyter
+# Dark Theme of Jupyter
 First install jupyter notebook.
 
 write command in jupyter notebook cell which is given in the folder "Download_Theme".
