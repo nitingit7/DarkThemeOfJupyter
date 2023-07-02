@@ -1,1 +1,1 @@
-!jt -t [THEME_NAME]
+ !jt -t [THEME_NAME] -T -N -kl
