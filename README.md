@@ -7,7 +7,6 @@ Then write another command after the success of the above code which is given in
 
 For checking the availability of themes you can type !jt -l in cell then you will see all the themes which are available in jupyter notebook.
 
-By default the toolbar, filename, kernel are hidden, to enable all of these you can simply type !jt -t [theme name] -T -N -kl in cell and reload the chrome.
+After choosing what theme you want simply type whatever is written in Dark_Theme file of this repository in your notebook cell and reload Chrome to see the changes.
 
-To restore the deafult theme of jupyter notebook you have to simply type !jt -r in the cell and reload the chrome to see the default theme of the jupyter notebook.
-
+To restore the default theme of jupyter notebook you have to simply type !jt -r in the cell and reload the Chrome to see the default theme of jupyter notebook.
